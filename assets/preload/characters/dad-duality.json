@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				67,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CDad Sing NOTE UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CDad Sing NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CDad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-20
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "CDad Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-3
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "CDad Sing NOTE RIGHT",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CDad Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				33,
+				-13
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "CDad Sing Note LEFT",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				67,
+				25
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "CDad Sing NOTE UP",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				106,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CDad Sing Note DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3alt4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		26,
+		47
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

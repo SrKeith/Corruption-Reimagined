@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dad idle dance Sad"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dad Sing Note DOWN Sad"
+		},
+		{
+			"offsets": [
+				-14,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dad Sing Note LEFT Sad"
+		},
+		{
+			"offsets": [
+				-13,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dad Sing NOTE RIGHT Sad"
+		},
+		{
+			"offsets": [
+				-18,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dad Sing NOTE UP Sad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3fuck",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-bf2",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

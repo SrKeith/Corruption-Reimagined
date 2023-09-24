@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				32,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				48,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/circle/bf-darkness",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "spirit-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		47,
+		114
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 10,
+	"scale": 1
+}

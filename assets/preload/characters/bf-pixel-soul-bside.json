@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN NOTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ignorant/bsid/bfpixey-6-4bsid",
+	"position": [
+		20,
+		250
+	],
+	"healthicon": "bf-pixel-glitch-bside",
+	"flip_x": true,
+	"healthbar_colors": [
+		31,
+		26,
+		67
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

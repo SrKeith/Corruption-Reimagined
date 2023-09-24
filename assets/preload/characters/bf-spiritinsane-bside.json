@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				139,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				75,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-87,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-92,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				304
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/resurg/bsid/sbfinsane",
+	"position": [
+		-40,
+		400
+	],
+	"healthicon": "bf-resurgence-bside",
+	"flip_x": true,
+	"healthbar_colors": [
+		232,
+		106,
+		203
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

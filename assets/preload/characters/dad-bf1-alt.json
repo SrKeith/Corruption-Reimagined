@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance Weaken2"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN Weaken2"
+		},
+		{
+			"offsets": [
+				-14,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT Weaken2"
+		},
+		{
+			"offsets": [
+				-13,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing NOTE RIGHT Weaken2"
+		},
+		{
+			"offsets": [
+				-19,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing NOTE UP Weaken2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3alt2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-ff7",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

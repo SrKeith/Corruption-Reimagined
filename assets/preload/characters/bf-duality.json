@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BF NOTE DOWN RAP"
+		},
+		{
+			"offsets": [
+				38,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BF NOTE RIGHT RAP"
+		},
+		{
+			"offsets": [
+				-1,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BF NOTE UP RAP"
+		},
+		{
+			"offsets": [
+				-44,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BF NOTE LEFT RAP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duality/bf-1-2",
+	"position": [
+		-800,
+		340
+	],
+	"healthicon": "mom-dad-duality",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		23,
+		44
+	],
+	"camera_position": [
+		-400,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

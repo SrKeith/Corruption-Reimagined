@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance Glow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT Glow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing NOTE RIGHT Glow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing NOTE UP Glow",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/bsid/dad-6-1bsid",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-1-5-bside",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		158,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

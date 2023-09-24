@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-7
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CDad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-8,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CDad Sing NOTE UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CDad Sing NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CDad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CDad Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "CDad Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3alt4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		26,
+		47
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

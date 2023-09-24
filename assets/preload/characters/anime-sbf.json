@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				410
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				378
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				405
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				433
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				394
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				410
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spiritbfanime",
+	"position": [
+		0,
+		500
+	],
+	"healthicon": "sbfanime",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		47,
+		114
+	],
+	"camera_position": [
+		-50,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
