@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-15
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Pico Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-27,
+				-61
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Pico Dead Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				-26
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Pico dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picoisacriminal/picoDead",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

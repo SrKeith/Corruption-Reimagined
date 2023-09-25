@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				110,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				90,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mom Up Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				60
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Mom Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alley/mom-4-wolfAlt",
+	"position": [
+		660,
+		0
+	],
+	"healthicon": "bf-pico-duality",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-450,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

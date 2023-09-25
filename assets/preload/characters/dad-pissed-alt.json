@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance Pissed"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN Pissed"
+		},
+		{
+			"offsets": [
+				38,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT Pissed"
+		},
+		{
+			"offsets": [
+				-14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing NOTE RIGHT Pissed"
+		},
+		{
+			"offsets": [
+				-19,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing NOTE UP Pissed"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Dad idle dance Pissed"
+		},
+		{
+			"offsets": [
+				39,
+				15
+			],
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Dad Sing Note LEFT Pissed"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Dad Sing Note DOWN Pissed"
+		},
+		{
+			"offsets": [
+				-18,
+				47
+			],
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Dad Sing NOTE UP Pissed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-ff6",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

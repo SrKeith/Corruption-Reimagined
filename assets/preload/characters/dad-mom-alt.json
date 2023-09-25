@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN Determined"
+		},
+		{
+			"offsets": [
+				46,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT Determined"
+		},
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing NOTE RIGHT Determined"
+		},
+		{
+			"offsets": [
+				-9,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing NOTE UP Determined"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance Determined",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				1
+			],
+			"fps": 20,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Dad idle dance Determined"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3alt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-ff5",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

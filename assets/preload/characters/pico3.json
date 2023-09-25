@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-6
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-12
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-82
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				28
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Pico Shoot0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "RELOAD",
+			"fps": 24,
+			"name": "Pico Reloading Gun0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				28
+			],
+			"anim": "gf-shoot",
+			"fps": 24,
+			"name": "Pico Shoot Gf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				0
+			],
+			"anim": "gf-reload",
+			"fps": 25,
+			"name": "Look Gf Pico Reloading Gun",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gopico/pico-1-3",
+	"position": [
+		100,
+		290
+	],
+	"healthicon": "pico-3",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

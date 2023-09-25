@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing NOTE RIGHT Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing NOTE UP Pissed",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance Pissed",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				12
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT Pissed",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				13,
+				-13
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN Pissed",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				38
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing NOTE UP Pissed",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"offsets": [
+				6,
+				7
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Dad Sing NOTE RIGHT Pissed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/dad-6-3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-3",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

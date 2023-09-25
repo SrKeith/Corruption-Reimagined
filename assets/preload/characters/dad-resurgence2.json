@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance Corrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN Corrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT Corrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing NOTE RIGHT Corrupt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing NOTE UP Corrupt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/resurg/dadresurgence2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-resurgence2",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

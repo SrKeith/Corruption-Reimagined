@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance Corrupt"
+		},
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN Corrupt"
+		},
+		{
+			"offsets": [
+				-4,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT Corrupt"
+		},
+		{
+			"offsets": [
+				-3,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing NOTE RIGHT Corrupt"
+		},
+		{
+			"offsets": [
+				-6,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing NOTE UP Corrupt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/bsid/dad-6-3fakeout",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-resurgence-bside",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		150,
+		154
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

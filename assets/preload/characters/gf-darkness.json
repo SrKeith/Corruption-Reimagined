@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BGF IdleGlow"
+		},
+		{
+			"offsets": [
+				-2,
+				-241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BGF Note DOWNGlow"
+		},
+		{
+			"offsets": [
+				9,
+				-233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BGF Note UPGlow"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-243
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BGF Note LEFTGlow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-237
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BGF Note RIGHTGlow",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-240
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "BGF IdleGlow",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/circle/gf-darkness",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

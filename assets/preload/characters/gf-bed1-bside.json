@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BGF IdleGlow"
+		},
+		{
+			"offsets": [
+				-3,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BGF Note DOWNGlow"
+		},
+		{
+			"offsets": [
+				9,
+				-232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BGF Note UPGlow"
+		},
+		{
+			"offsets": [
+				-2,
+				-243
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BGF Note LEFTGlow"
+		},
+		{
+			"offsets": [
+				-2,
+				-237
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BGF Note RIGHTGlow"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "BGF IdleGlow"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depression/bsid/gf-6-1bsid",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf-bside",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
