@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "spooky dance idle",
+	"idle_anim": "spooky dance idle",
+	"position": [
+		240,
+		40
+	],
+	"scale": 0.649999999999999,
+	"image": "Menu_Spooky_Kids"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Mom.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mom Idle0000" x="10" y="10" width="388" height="836" frameX="-4" frameY="-2" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0001" x="10" y="10" width="388" height="836" frameX="-4" frameY="-2" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0002" x="408" y="10" width="386" height="825" frameX="-4" frameY="-14" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0003" x="408" y="10" width="386" height="825" frameX="-4" frameY="-14" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0004" x="804" y="10" width="392" height="832" frameX="-1" frameY="-7" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0005" x="804" y="10" width="392" height="832" frameX="-1" frameY="-7" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0006" x="1206" y="10" width="398" height="836" frameX="0" frameY="-5" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0007" x="1206" y="10" width="398" height="836" frameX="0" frameY="-5" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0008" x="1614" y="10" width="398" height="840" frameX="0" frameY="-1" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0009" x="1614" y="10" width="398" height="840" frameX="0" frameY="-1" frameWidth="398" frameHeight="841"/>
+	<SubTexture name="Mom Idle0010" x="10" y="860" width="398" height="841"/>
+	<SubTexture name="Mom Idle0011" x="10" y="860" width="398" height="841"/>
+	<SubTexture name="Mom Idle0012" x="418" y="860" width="398" height="841"/>
+	<SubTexture name="Mom Idle0013" x="418" y="860" width="398" height="841"/>
+</TextureAtlas>

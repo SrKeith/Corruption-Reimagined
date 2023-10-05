@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Mom Idle",
+	"idle_anim": "Mom Idle",
+	"position": [
+		241,
+		230
+	],
+	"scale": 0.45,
+	"image": "Menu_Mom_Bf"
+}

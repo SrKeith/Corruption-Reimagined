@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "ae",
+	"idle_anim": "BF idle dance",
+	"position": [
+		-165,
+		-20
+	],
+	"scale": 0.65,
+	"image": "Menu_BF_Dad"
+}
